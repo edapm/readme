@@ -8,8 +8,6 @@ Here are some ideas to get you started: -->
 ![](https://github-readme-stats.vercel.app/api?username=forgenst&show_icons=true&count_private=true&theme=nord)
 
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching), which I'm building with Django
-- 🌱 I’m currently learning Django, and revising my JavaScript
-- 👯 I’m looking to collaborate on web-based projects, especially ones built with Django
 - 🤔 I’m looking for help with how to deploy a web application
 - 💬 Ask me about HTML, CSS, Python, and Django - but there's probably better people to ask!
 - 📫 How to reach me: [ed@forgenst.com](mailto:ed@forgenst.com)
