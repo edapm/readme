@@ -6,6 +6,7 @@
 Here are some ideas to get you started: -->
 
 ![](https://github-readme-stats.vercel.app/api?username=forgenst&show_icons=true&count_private=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=forgenst&layout=compact&theme=nord)
 
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching), which I'm building with Django
 - 🤔 I’m looking for help with how to deploy a web application
