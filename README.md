@@ -1,6 +1,6 @@
 ### Hi there, I'm Ed (aka Forgenst) 👋
 
-![](https://shields.forgenst.com/github/followers/forgenst?label=Follow%20Me%21)
+![](https://img.shields.io/github/followers/forgenst?label=Follow%20Me%21)
 
 <!--
 **forgenst/forgenst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
