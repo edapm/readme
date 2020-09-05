@@ -1,9 +1,9 @@
-### Hi there, I'm Ed (aka Forgenst) 👋
+### Hi there, I'm Ed 👋
 
 ![](https://img.shields.io/github/followers/emason54?label=Follow%20Me%21)
 
 <!--
-**forgenst/forgenst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emason54/emason54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
