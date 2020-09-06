@@ -1,14 +1,13 @@
 ### Hi there, I'm Ed 👋
 
-![](https://img.shields.io/github/followers/emason54?label=Follow%20Me%21)
+![](https://img.shields.io/github/followers/edapm?label=Follow%20Me%21)
 
 <!--
-**emason54/emason54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edapm/edapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-![](https://ghstats.forgenst.com/api?username=emason54&show_icons=true&count_private=true)
-![](https://ghstats.forgenst.com/api/top-langs/?username=emason54&layout=compact)
+![](https://ghstats.forgenst.com/api?username=edapm&show_icons=true&count_private=true)
 
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching), which I'm building with Django
 - 🤔 I’m looking for help with how to deploy a web application
