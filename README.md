@@ -1,7 +1,5 @@
 ### Hi there, I'm Ed 👋
 
-![](https://img.shields.io/github/followers/edapm?label=Follow%20Me%21)
-
 <!--
 **edapm/edapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
