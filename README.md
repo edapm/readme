@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching)
 - ✒️ I'm learning JavaScript and React
 - 🤔 I’m looking for help with **how to deploy a web application**
-- 💬 Ask me about HTML, CSS, Python, and Django - but there's probably better people to ask!
+- 💬 Ask me about HTML, CSS, Python, and Django - but there's probably better people to ask! (If you do want to, head over to my [contact repo](https://github.com/edapm/contact)
 
 #### My Projects
 
