@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 ![](https://ghstats.forgenst.com/api?username=edapm&show_icons=true&hide_border=true&count_private=true&title_color=012340&icon_color=FF4900)
 
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching)
-- ✒️ I'm learning JavaScript and React
+- ✒️ I'm learning JavaScript and React - thanks to @FrontendMasters
 - 🤔 I’m looking for help with **how to deploy a web application**
 - 💬 Ask me about HTML, CSS, Python, and Django - but there's probably better people to ask! (If you do want to, head over to my [contact repo](https://github.com/edapm/contact)
 
