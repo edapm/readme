@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-![](https://ghstats.forgenst.com/api?username=edapm&show_icons=true&hide_border=true&count_private=true&title_color=012340&icon_color=FF4900)
+![](https://github-readme-stats.vercel.app/api?username=edapm&show_icons=true&hide_border=true&count_private=true&title_color=012340&icon_color=FF4900)
 
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching)
 - ✒️ I'm learning JavaScript and React - thanks to [Frontend Masters](https://frontendmasters.com) and GitHub Student Developer Pack :octocat:
