@@ -17,4 +17,4 @@ Here are some ideas to get you started: -->
 - [Zadok](https://github.com/edapm/zadok) - Summer project. Python todolist program
 - [Jekyll Statuspage](https://github.com/forgenst/jekyll-statuspage) - Statuspage theme for Jekyll
 - [Lunchbenching](https://github.com/lunchbenching) - The Picnicspot Network
-- [Sysody](https://github.com/sysody) - GitHub Actions Tutorials and Templates
+- [VS Code Community](https://github.com/vscodecommunity) - The unofficial VS Code Community
