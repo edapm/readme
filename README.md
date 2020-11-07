@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Ed
-#### A Web Developer
+## Hi there 👋, I'm Ed
+### A Web Developer
 
 <!--
 **edapm/edapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
