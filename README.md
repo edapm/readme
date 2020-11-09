@@ -6,7 +6,8 @@
 
 Here are some ideas to get you started: -->
 
-![GitHub metrics](https://metrics.lecoq.io/edapm?template=terminal&languages=1&followup=1&pagespeed=1&isocalendar=1)
+![GitHub followers](https://img.shields.io/github/followers/edapm?style=flat-square)
+![Website](https://img.shields.io/website?label=forgenst.com&logo=ghost&style=flat-square&url=https%3A%2F%2Fforgenst.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edapm) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/edapm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/edapm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/edapm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12993670)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://forgenst.com)
 
