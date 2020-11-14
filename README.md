@@ -7,6 +7,15 @@ Here are some ideas to get you started: -->
 
 #### About Me
 
+[![GitHub Badge](https://img.shields.io/badge/-edapm-000000?style=flat&logo=GitHub&link=https://github.com/edapm)](https://github.com/edapm)
+[![GitLab Badge](https://img.shields.io/badge/-edapm-4700CC?style=flat&logo=GitLab&link=https://gitlab.com/edapm)](https://gitlab.com/edapm)
+[![NPM Badge](https://img.shields.io/badge/-edapm-crimson?style=flat&logo=npm&logoColor=white&link=https://npmjs.com/~edapm)](https://npmjs.com/~edapm)
+[![DevTo Badge](https://img.shields.io/badge/-edapm-gray?style=flat&logo=dev.to&link=https://dev.to/edapm)](https://dev.to/edapm)
+[![CodePen Badge](https://img.shields.io/badge/-edapm-navy?style=flat&logo=codepen&link=https://codepen.io/edapm)](https://codepen.io/edapm)
+[![Stack Badge](https://img.shields.io/badge/-edapm-white?style=flat&logo=stackoverflow&link=https://stackoverflow.com/users/12993670)](https://stackoverflow.com/users/12993670)
+[![Website Badge](https://img.shields.io/badge/-website-blue?style=flat&logo=icloud&logoColor=white&link=https://forgenst.com)](https://forgenst.com)
+[![Email Badge](https://img.shields.io/badge/-contact-darkgreen?style=flat&logo=signal&logoColor=white&link=https://github.com/edapm/contact)](https://github.com/edapm/contact)
+
 ```yaml
 Skills: PYTHON / REACT / JS / HTML / CSS / DJANGO
 ```
@@ -23,7 +32,3 @@ Skills: PYTHON / REACT / JS / HTML / CSS / DJANGO
 - [Jekyll Statuspage](https://github.com/forgenst/jekyll-statuspage) - Statuspage theme for Jekyll
 - [Lunchbenching](https://github.com/lunchbenching) - The Picnicspot Network
 - [VS Code Community](https://github.com/vscodecommunity) - The unofficial VS Code Community
-
-#### Social
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edapm) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/edapm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/edapm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/edapm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12993670)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://forgenst.com)
