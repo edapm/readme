@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 [![CodePen Badge](https://img.shields.io/badge/-edapm-navy?style=flat&logo=codepen&link=https://codepen.io/edapm)](https://codepen.io/edapm)
 [![Stack Badge](https://img.shields.io/badge/-edapm-white?style=flat&logo=stackoverflow&link=https://stackoverflow.com/users/12993670)](https://stackoverflow.com/users/12993670)
 [![Website Badge](https://img.shields.io/badge/-website-blue?style=flat&logo=icloud&logoColor=white&link=https://forgenst.com)](https://forgenst.com)
-[![Email Badge](https://img.shields.io/badge/-contact-darkgreen?style=flat&logo=signal&logoColor=white&link=https://github.com/edapm/contact)](https://github.com/edapm/contact)
+[![Email Badge](https://img.shields.io/badge/-contact-darkgreen?style=flat&logo=signal&logoColor=white&link=https://github.com/edapm/edapm)](https://github.com/edapm/edapm)
 
 
 ### My Skills
@@ -38,10 +38,10 @@ Here are some ideas to get you started: -->
 
 ### What I'm doing...
 
-- 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching) and [**Presents List**](https://github.com/edapm/presents-list)
+- 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching)
 - ✒️ I've just learnt JavaScript and React - thanks to [Frontend Masters](https://frontendmasters.com) and GitHub Student Developer Pack :octocat:
 - 🤔 I’m looking for help with **how to deploy a web application**
-- 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact repo](https://github.com/edapm/contact))
+- 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact repo](https://github.com/edapm/edapm))
 
 <!--- ### My Projects
 
