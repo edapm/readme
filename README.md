@@ -1,10 +1,5 @@
 ## Hi there 👋, I'm Ed, a Web Developer
 
-<!--
-**edapm/edapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 ### About Me
 
 [![GitHub Badge](https://img.shields.io/badge/-edapm-000000?style=flat&logo=GitHub&link=https://github.com/edapm)](https://github.com/edapm)
@@ -40,13 +35,5 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching)
 - ✒️ I've just learnt JavaScript and React - thanks to [Frontend Masters](https://frontendmasters.com) and GitHub Student Developer Pack :octocat:
-- 🤔 I’m looking for help with **how to deploy a web application**
+- 🤔 I’m looking for help with **choosing a backend/web stack for Lunchbenching**
 - 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact discussion](https://github.com/edapm/edapm/discussions))
-
-<!--- ### My Projects
-
-- [Zadok](https://github.com/edapm/zadok) - Summer project. Python todolist program
-- [Presents List](https://github.com/edapm/presents-list) - A React/Firebase app for organising Christmas Presents
-- [Jekyll Statuspage](https://github.com/forgenst/jekyll-statuspage) - Statuspage theme for Jekyll
-- [Lunchbenching](https://github.com/lunchbenching) - The Picnicspot Network
-- [VS Code Community](https://github.com/vscodecommunity) - The unofficial VS Code Community -->
