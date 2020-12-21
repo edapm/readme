@@ -33,7 +33,7 @@
 
 ### What I'm doing...
 
-- 🔭 I’m currently working on [**Lunchbenching**](https://github.com/lunchbenching)
+- 🔭 I’m currently working on [**Picnicspot.io**](https://github.com/picnicspot)
 - ✒️ I've just learnt JavaScript and React - thanks to [Frontend Masters](https://frontendmasters.com) and GitHub Student Developer Pack :octocat:
-- 🤔 I’m looking for help with **choosing a backend/web stack for Lunchbenching**
+- 🤔 I’m looking for help with **choosing a backend/web stack for Picnicspot** (See [here](https://github.com/edapm/edapm/blob/master/stack.md) for more info)
 - 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact discussion](https://github.com/edapm/edapm/discussions))
