@@ -32,5 +32,5 @@
 ### What I'm doing...
 
 - 🔭 I’m currently taking a break from coding
-- 🤔 I’m looking for help with **choosing a backend/web stack for my next application** (See [here](https://github.com/edapm/edapm/blob/master/stack.md) for more info)
+<!-- - 🤔 I’m looking for help with **choosing a backend/web stack for my next application** (See [here](https://github.com/edapm/edapm/blob/master/stack.md) for more info) -->
 - 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact discussion](https://github.com/edapm/edapm/discussions))
