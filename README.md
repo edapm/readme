@@ -10,6 +10,7 @@
 [![Stack Badge](https://img.shields.io/badge/-edapm-white?style=flat&logo=stackoverflow&link=https://stackoverflow.com/users/12993670)](https://stackoverflow.com/users/12993670)
 [![Email Badge](https://img.shields.io/badge/-contact-darkgreen?style=flat&logo=signal&logoColor=white&link=https://github.com/edapm/edapm/discussions)](https://github.com/edapm/edapm/discussions)
 
+[![edapms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edapm)](https://github.com/edapm/edapm)
 
 ### My Skills
 
