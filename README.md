@@ -26,16 +26,17 @@
 
 ![C#](https://img.shields.io/badge/-c%20sharp-5C2D91?style=flat&logo=c%20sharp)
 ![Java](https://img.shields.io/badge/-java-orange?style=flat&logo=java)
-![Django](https://img.shields.io/badge/-django-lightgreen?style=flat&logo=django)
+![Django](https://img.shields.io/badge/-django-green?style=flat&logo=django)
 
 #### Looking to learn...
 
 ![Next.js](https://img.shields.io/badge/-next.js-black?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-tailwind-lightgreen?style=flat&logo=tailwind%20css)
 ![Docker](https://img.shields.io/badge/-docker-blue?style=flat&logo=docker)
 ![Netlify](https://img.shields.io/badge/-netlify-beige?style=flat&logo=netlify)
 
 ### What I'm doing...
 
-- 🔭 I’ve just learnt Strapi, currently expanding my React and CSS knowledge, and looking to learn Next.js
+- 🔭 I’ve just learnt Strapi, and I'm now learning Next.js and Tailwind CSS
 <!-- - 🤔 I’m looking for help with **choosing a backend/web stack for my next application** (See [here](https://github.com/edapm/edapm/blob/master/stack.md) for more info) -->
 - 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact discussion](https://github.com/edapm/edapm/discussions))
