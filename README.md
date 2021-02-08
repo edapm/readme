@@ -19,6 +19,7 @@
 ![CSS](https://img.shields.io/badge/-css-red?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-sass-pink?style=flat&logo=sass)
 ![JS](https://img.shields.io/badge/-javascript-purple?style=flat&logo=javascript)
+![TS](https://img.shields.io/badge/-typescript-darkgray?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-reactjs-grey?style=flat&logo=react)
 ![Strapi](https://img.shields.io/badge/-strapi-lightblue?style=flat&logo=strapi)
 
