@@ -2,15 +2,17 @@
 
 ### About Me
 
-[![GitHub Badge](https://img.shields.io/badge/-edapm-000000?style=flat&logo=GitHub&link=https://github.com/edapm)](https://github.com/edapm)
+![@edapm](https://img.shields.io/badge/-Find%20me%20as%20@edapm%20on%20most%20platforms-56BCD9?style=for-the-badge)
+
+<!-- [![GitHub Badge](https://img.shields.io/badge/-edapm-000000?style=flat&logo=GitHub&link=https://github.com/edapm)](https://github.com/edapm)
 [![GitLab Badge](https://img.shields.io/badge/-edapm-4700CC?style=flat&logo=GitLab&link=https://gitlab.com/edapm)](https://gitlab.com/edapm)
 [![NPM Badge](https://img.shields.io/badge/-edapm-crimson?style=flat&logo=npm&logoColor=white&link=https://npmjs.com/~edapm)](https://npmjs.com/~edapm)
 [![DevTo Badge](https://img.shields.io/badge/-edapm-gray?style=flat&logo=dev.to&link=https://dev.to/edapm)](https://dev.to/edapm)
 [![CodePen Badge](https://img.shields.io/badge/-edapm-navy?style=flat&logo=codepen&link=https://codepen.io/edapm)](https://codepen.io/edapm)
 [![Stack Overflow Badge](https://img.shields.io/badge/-edapm-white?style=flat&logo=stackoverflow&link=https://stackoverflow.com/users/12993670)](https://stackoverflow.com/users/12993670)
-[![Contact Badge](https://img.shields.io/badge/-contact-darkgreen?style=flat&logo=signal&logoColor=white&link=https://github.com/edapm/edapm/discussions)](https://github.com/edapm/edapm/discussions)
+[![Contact Badge](https://img.shields.io/badge/-contact-darkgreen?style=flat&logo=signal&logoColor=white&link=https://github.com/edapm/edapm/discussions)](https://github.com/edapm/edapm/discussions) -->
 
-[![edapms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edapm)](https://wakatime.com/@edapm)
+[![edapms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edapm&layout=compact&theme=buefy&custom_title=My%20Coding%20Stats)](https://wakatime.com/@edapm)
 
 <!--
 ### My Skills (In order of which I learnt them) -->
