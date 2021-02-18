@@ -20,13 +20,13 @@
 <!-- ![Python](https://img.shields.io/badge/-python-yellow?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-html-maroon?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-red?style=flat&logo=css3) -->
-![Sass](https://img.shields.io/badge/-sass-pink?style=flat&logo=sass)
 <!-- ![JS](https://img.shields.io/badge/-javascript-purple?style=flat&logo=javascript) -->
 ![React](https://img.shields.io/badge/-reactjs-grey?style=flat&logo=react)
 ![Strapi](https://img.shields.io/badge/-strapi-lightblue?style=flat&logo=strapi)
 ![TS](https://img.shields.io/badge/-typescript-darkgray?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-next.js-black?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-tailwind-lightgreen?style=flat&logo=tailwind%20css)
+![Sass](https://img.shields.io/badge/-sass-pink?style=flat&logo=sass)
 
 <!-- #### A little... -->
 
