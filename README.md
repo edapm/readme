@@ -12,24 +12,27 @@
 
 [![edapms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edapm)](https://wakatime.com/@edapm)
 
-### My Skills (In order of which I learnt them)
+<!--
+### My Skills (In order of which I learnt them) -->
 
-![Python](https://img.shields.io/badge/-python-yellow?style=flat&logo=python)
+### Some of my skills
+
+<!-- ![Python](https://img.shields.io/badge/-python-yellow?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-html-maroon?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-css-red?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-css-red?style=flat&logo=css3) -->
 ![Sass](https://img.shields.io/badge/-sass-pink?style=flat&logo=sass)
-![JS](https://img.shields.io/badge/-javascript-purple?style=flat&logo=javascript)
+<!-- ![JS](https://img.shields.io/badge/-javascript-purple?style=flat&logo=javascript) -->
 ![React](https://img.shields.io/badge/-reactjs-grey?style=flat&logo=react)
 ![Strapi](https://img.shields.io/badge/-strapi-lightblue?style=flat&logo=strapi)
 ![TS](https://img.shields.io/badge/-typescript-darkgray?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-next.js-black?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-tailwind-lightgreen?style=flat&logo=tailwind%20css)
 
-#### A little...
+<!-- #### A little... -->
 
-![C#](https://img.shields.io/badge/-c%20sharp-5C2D91?style=flat&logo=c%20sharp)
+<!-- ![C#](https://img.shields.io/badge/-c%20sharp-5C2D91?style=flat&logo=c%20sharp)
 ![Java](https://img.shields.io/badge/-java-orange?style=flat&logo=java)
-![Django](https://img.shields.io/badge/-django-green?style=flat&logo=django)
+![Django](https://img.shields.io/badge/-django-green?style=flat&logo=django) -->
 
 #### Looking to learn...
 
