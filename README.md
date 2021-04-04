@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-css-red?style=flat&logo=css3) -->
 <!-- ![JS](https://img.shields.io/badge/-javascript-purple?style=flat&logo=javascript) -->
 ![React](https://img.shields.io/badge/-reactjs-grey?style=flat&logo=react)
-![Strapi](https://img.shields.io/badge/-strapi-lightblue?style=flat&logo=strapi)
+![Strapi](https://img.shields.io/badge/-strapi-purple?style=flat&logo=strapi)
 ![TS](https://img.shields.io/badge/-typescript-darkgray?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-next.js-black?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-tailwind-lightgreen?style=flat&logo=tailwind%20css)
@@ -39,7 +39,7 @@
 #### Looking to learn...
 
 ![Docker](https://img.shields.io/badge/-docker-blue?style=flat&logo=docker)
-![Netlify](https://img.shields.io/badge/-netlify-beige?style=flat&logo=netlify)
+![React Native / Expo](https://img.shields.io/badge/-react%20native%20/%20expo-lightblue?style=flat&logo=expo)
 
 ### What I'm doing...
 
