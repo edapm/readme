@@ -39,7 +39,7 @@
 #### Looking to learn...
 
 ![Docker](https://img.shields.io/badge/-docker-blue?style=flat&logo=docker)
-![Rust](https://img.shields.io/badge/-rust-#000000?style=flat&logo=rust)
+![Rust](https://img.shields.io/badge/-rust-000000?style=flat&logo=rust)
 
 ### What I'm doing...
 
