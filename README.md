@@ -43,6 +43,6 @@
 
 ### What I'm doing...
 
-- 🔭 I am currently working on **Lunchbench**, a way to find and suggest places to picnic - it'll be open-sourced soon!
+<!-- - 🔭 I am currently working on **Lunchbench**, a way to find and suggest places to picnic - it'll be open-sourced soon! -->
 <!-- - 🤔 I’m looking for help with **choosing a backend/web stack for my next application** (See [here](https://github.com/edapm/edapm/blob/master/stack.md) for more info) -->
 - 💬 Ask me about HTML, CSS, React (or not!) and Python - but there's probably better people to ask! (If you do want to, head over to my [contact discussion](https://github.com/edapm/edapm/discussions))
